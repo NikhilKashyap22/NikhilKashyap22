@@ -38,13 +38,5 @@ I'm a **Software Engineer** passionate about building scalable and efficient app
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark"/>
-</p>
-
----
-
 ### 💡 Fun Fact
 🖥️ "Coding is like humor. If you have to explain it, it’s bad." 😄
