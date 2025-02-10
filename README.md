@@ -6,7 +6,7 @@ I'm a **Software Engineer** passionate about building scalable and efficient app
 - 🔭 I’m currently working on **Spring Boot Authentication Services**
 - 🌱 I’m learning **Microservices Architecture & Cloud Technologies**
 - 💬 Ask me about **Backend Development, APIs, and System Design**
-- 📫 How to reach me: [Your Email] | [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 How to reach me: [nikhil.kashyap.wrk@gmail.com] | [LinkedIn](https://www.linkedin.com/in/nikhil-kashyap-m-s-735153263/)
 
 ---
 
