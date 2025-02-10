@@ -3,9 +3,8 @@
 ### 🚀 About Me
 I'm a **Software Engineer** passionate about building scalable and efficient applications. I love working with **Java**, **Spring Boot**, and modern web technologies. I enjoy solving complex problems and continuously learning new skills to improve my craft.
 
-- 🔭 I’m currently working on **Spring Boot Authentication Services**
-- 🌱 I’m learning **Microservices Architecture & Cloud Technologies**
-- 💬 Ask me about **Backend Development, APIs, and System Design**
+- 🛠 I'm skilled/experienced in working with **Spring Boot, Angular, MySQL-based full-stack applications**.
+- 💡 My strength: **collaborative code development, active thinking, functional implementation**.
 - 📫 How to reach me: [nikhil.kashyap.wrk@gmail.com] | [LinkedIn](https://www.linkedin.com/in/nikhil-kashyap-m-s-735153263/)
 
 ---
